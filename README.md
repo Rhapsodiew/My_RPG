@@ -35,7 +35,7 @@ MY RPG supports **modding**! There is already few mods.
    cd my-rpg
 ```
 
-✅ Project Status
+## ✅ Project Status
 
 Completed  
 Will probably not work on this project again.
