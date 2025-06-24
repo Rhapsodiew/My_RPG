@@ -25,15 +25,6 @@ MY RPG supports **modding**! There is already few mods.
 
 - GoLang
 - Terminal-based rendering
-- Modular file structure
-
-
-## 🚀 Installation
-
-```bash
-   git clone https://github.com/your-username/my-rpg.git
-   cd my-rpg
-```
 
 ## ✅ Project Status
 
